@@ -1,0 +1,11 @@
+My Recommended Books on Data-Science & Machine Learning
+You can get the below resources for a strong Data Science Foundation and building Upon It
+
+1. Hands-On Machine Learning with Scikit-Learn, Keras and Tensor Flow: Concepts, Tools and Techniques to Build Intelligent Systems -- https://amzn.to/3kUsElI
+2. Building Machine Learning Pipelines: Automating Model Life Cycles with TensorFlow -- https://amzn.to/3ncggjw
+3. Machine Learning  -- https://amzn.to/38IeNco
+4. Data Pipelines Pocket Reference: Moving and Processing Data for Analytics -- https://amzn.to/38Mn0w4
+5. Data Science from Scratch: First Principles with Python -- https://amzn.to/2YuAo6r
+6. Python Data Science Handbook: Essential Tools for Working with Data -- https://amzn.to/3zLu8Fa
+7. Becoming a Data Head: How to Think, Speak and Understand Data Science, Statistics and Machine Learning  - https://amzn.to/3yNhG6v
+
